@@ -2,7 +2,7 @@
 
 ![image](https://github.com/AvastrOficial/Bsz-infect/assets/91764815/45926130-afda-413d-85fb-bedf09c43f18)
 
-### Instalacion para [Termux] :
+## Instalacion para [Termux] :
 apt-get update 
 <br></br>
 apt-get upgrade 
@@ -27,7 +27,7 @@ ls
 <br></br>
 bash Bsz-infect.sh
 <br></br>
-### Informacion : 
+## Informacion : 
 INFECTAR :
 Desde esta opción obtendrás un enlace de virus en tu termux, simplemente envía ese enlace a tu víctima y deja que la diversión suceda.
 <br></br>
