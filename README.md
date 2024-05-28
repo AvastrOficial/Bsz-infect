@@ -1,5 +1,6 @@
 # Bsz-infect
 ![image](https://github.com/AvastrOficial/Bsz-infect/assets/91764815/45926130-afda-413d-85fb-bedf09c43f18)
+<br></br>
 script de Bash utilizado para ejecutar algún tipo de proceso de infección o prueba de seguridad
 ## Instalacion para [Termux] :
 apt-get update 
