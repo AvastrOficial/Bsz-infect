@@ -1,15 +1,15 @@
 # Bsz-infect
 
-### INSTALLATION [Termux] :
-apt-get update -y
+### Instalacion para [Termux] :
+apt-get update 
 <br></br>
-apt-get upgrade -y
+apt-get upgrade 
 <br></br>
-pkg install python -y
+pkg install python 
 <br></br>
-pkg install python2 -y
+pkg install python2 
 <br></br>
-pkg install git -y
+pkg install git 
 <br></br>
 pip install lolcat
 <br></br>
