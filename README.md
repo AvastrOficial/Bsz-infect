@@ -6,11 +6,6 @@
 - [🌐 APIs Utilizadas](#-apis-utilizadas)
 - [🏗️ Arquitectura del Proyecto](#️-arquitectura-del-proyecto)
 - [🚀 Instalación y Uso](#-instalación-y-uso)
-- [✨ Características Principales](#-características-principales)
-- [🔧 Explicación Técnica](#-explicación-técnica)
-- [🐛 Solución de Problemas](#-solución-de-problemas)
-- [📚 Referencias](#-referencias)
-- [📝 Notas Adicionales](#-notas-adicionales)
 
 ---
 
