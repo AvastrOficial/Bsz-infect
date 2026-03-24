@@ -227,3 +227,4 @@ SALIDA :
 Desde esta opción puedes salir de la herramienta de infección.
 <br></br>
 ![image](https://github.com/AvastrOficial/Bsz-infect/assets/91764815/29a8dabc-dd64-4785-888f-2c69e42b2cc7)
+https://replit.com/@StrAva1/Bsz-Infect?v=1
