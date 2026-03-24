@@ -1,5 +1,5 @@
 # 🧟 BSZ INFECTION - Joker Strain Tracker
-
+web :  https://bszhackers.foroactivo.com/h4-bszinfecionjokersapk
 ## 📋 Tabla de Contenidos
 - [📖 Descripción General](#-descripción-general)
 - [🔐 ¿Qué es un Hash?](#-qué-es-un-hash)
